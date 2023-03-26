@@ -1,4 +1,5 @@
 #include "monty.h"
+#include <stdio.h>
 /**
  * read_file - reads a bytecode file and runs commands
  * @filename: pathname to file
